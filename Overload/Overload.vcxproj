@@ -145,6 +145,7 @@
     <ClCompile Include="Print.cpp" />
     <ClCompile Include="Sort.cpp" />
     <ClCompile Include="MaxValue.cpp" />
+    <ClCompile Include="FillRand.cpp" />
     <ClCompile Include="Sum.cpp" />
   </ItemGroup>
   <ItemGroup>
