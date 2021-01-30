@@ -1,4 +1,4 @@
-#include"Declaration.h"
+﻿#include"Declaration.h"
 #include"Print.cpp"
 
 void main()
