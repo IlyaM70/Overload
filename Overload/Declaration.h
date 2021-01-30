@@ -13,13 +13,9 @@ void FillRand(int arr[ROWS][COLS]);
 void FillRand(double arr[ROWS][COLS]);
 void FillRand(char arr[ROWS][COLS]);
 
-void Print(int Arr[ROWS]);
-void Print(double Arr[ROWS]);
-void Print(char Arr[ROWS]);
+template<typename T>void Print(T Arr[ROWS]);
+template<typename T>void Print(T Arr[ROWS][COLS]);
 
-void Print(int Arr[ROWS][COLS]);
-void Print(double Arr[ROWS][COLS]);
-void Print(char Arr[ROWS][COLS]);
 
 
 void Sort(int Arr[ROWS]);
